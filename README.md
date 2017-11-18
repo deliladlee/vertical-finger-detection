@@ -1,6 +1,8 @@
 # vertical-finger-detection
 Computer vision project in detecting a shush face (vertical finger in front of mouth)
 
+Class project.
+
 Files included:
 
 Part 1:
